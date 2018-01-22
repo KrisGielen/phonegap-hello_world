@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="be.krisgielen.helloworld" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="be.krisgielen.helloworld" version="1.0.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
   <name>KG's Hello World</name>
   <description>KG's Hello World sample application</description>
   <author email="software@krisgielen.be" href="http://krisgielen.be">Kris Gielen</author>
   <content src="index.html" />
-  <icon src="res/icon.png" />
+  <icon src="www/res/icon.png" />
   <preference name="DisallowOverscroll" value="true" />
   <preference name="android-minSdkVersion" value="14" />
   <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.1.1" />
